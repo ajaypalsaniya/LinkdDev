@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://palsaniya:palsaniya@linkeddev-eomht.mongodb.net/LinkedDev?retryWrites=true&w=majority"
+  "mongoURI": "mongodb://localhost/LinkedDev",
+  "jwtsecret": "654321"
 }
+
+// "mongoURI": "mongodb+srv://palsaniya:palsaniya@linkeddev-eomht.mongodb.net/LinkedDev?retryWrites=true&w=majority",
