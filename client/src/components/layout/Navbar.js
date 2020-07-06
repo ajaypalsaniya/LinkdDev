@@ -7,7 +7,7 @@ const Navbar = () => {
 			<nav class='navbar bg-dark'>
 				<h1>
 					<Link to='/'>
-						<i class='fas fa-code'></i> DevConnector
+						<i class='fas fa-code'></i> LinkedDev
 					</Link>
 				</h1>
 				<ul>
