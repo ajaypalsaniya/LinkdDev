@@ -1,8 +1,6 @@
 {
-  "mongoURI": "mongodb://localhost/LinkedDev",
-  "jwtsecret": "654321",
-  "githubClientId": "d8ad21864bcdfdb4d112",
-  "githubSecret": "b4970ee9ce73fc31dbcbb80d5c425319e2a960a9"
+	"mongoURI": "mongodb+srv://palsaniya:palsaniya@linkeddev-eomht.mongodb.net/LinkedDev?retryWrites=true&w=majority",
+	"jwtsecret": "654321",
+	"githubClientId": "d8ad21864bcdfdb4d112",
+	"githubSecret": "b4970ee9ce73fc31dbcbb80d5c425319e2a960a9"
 }
-
-// "mongoURI": "mongodb+srv://palsaniya:palsaniya@linkeddev-eomht.mongodb.net/LinkedDev?retryWrites=true&w=majority",
